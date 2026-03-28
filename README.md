@@ -45,4 +45,7 @@ O desafio foi implementado seguindo o conceito de **Pixel Perfect**, garantindo 
     [http://localhost:3000](http://localhost:3000)
 
 ---
+
+<img src="https://i.pinimg.com/736x/77/b0/58/77b058168143d969ca0b81f7a7e96e39.jpg" width="300px" style="border-radius:50%">
+
 Desafio concluído por **Alice Costa** 🚀
