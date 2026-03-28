@@ -43,6 +43,8 @@ O desafio foi implementado seguindo o conceito de **Pixel Perfect**, garantindo 
 
 4.  **Acesse no navegador:**
     [http://localhost:3000](http://localhost:3000)
+    | Deploy:
+    [https://desafio-frontend-flame.vercel.app/]
 
 ---
 
